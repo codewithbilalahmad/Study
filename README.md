@@ -1,0 +1,1 @@
+Study is a offline Study app made with Jetpack compose, Kotlin, made for students in school , college and university, A Student enable to add subjects add tasks in their subject start a subject session , tracking of study tools and more.
